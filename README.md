@@ -20,10 +20,7 @@
 
 ## 💼 Projects
 - [KaasPay](https://apps.apple.com/in/app/kaaspay/id6746633525?mt=8) – iOS Payment App
-- [Shoperies](https://play.google.com/store/apps/details?id=com.shoperies.app) – Android E-commerce App
-
-## 📈 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=charanprasanth&layout=compact&theme=radical)
+- [Shoperies](https
 
 
 <!--
