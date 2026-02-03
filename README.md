@@ -20,7 +20,7 @@
 
 ## 💼 Projects
 - [KaasPay](https://apps.apple.com/in/app/kaaspay/id6746633525?mt=8) – iOS Payment App
-- [Shoperies](https
+- [Shoperies](https://play.google.com/store/apps/details?id=com.shoperies.app) – Android E-commerce App
 
 
 <!--
